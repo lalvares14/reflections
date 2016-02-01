@@ -1,0 +1,10 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+You intall .git and other directories on it, also it files them in order to make git function properly.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Repo: holds the versions do the documents for comparing.
+Working Direc: place to acumulate the code and work on it.
+Staging: place to organize the files before commiting, and then making possible an logical order on the commits.
+
